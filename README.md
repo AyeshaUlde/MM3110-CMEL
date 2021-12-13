@@ -15,4 +15,6 @@ This repository contains the MATLAB source codes for the assignments of MM3110 C
 
     Numerical integration methods such as Simpson's one-third rule are implemented in MATLAB.
     
- 
+- Differential Equations 
+
+    Ordinary differential equations are solved by implementing numerical methods such as Runge-kutta and shooting star methods in MATLAB.
