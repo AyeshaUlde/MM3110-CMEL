@@ -18,3 +18,8 @@ This repository contains the MATLAB source codes for the assignments of MM3110 C
 - Differential Equations 
 
     Ordinary differential equations are solved by implementing numerical methods such as Runge-kutta and shooting star methods in MATLAB.
+
+- Digital Microstructures & Data Analytics
+    - Part 1 : Generation of 2-D digital microstructures
+    - Part 2 : Generation and simulation of 3-D digital microstructures
+    - Part 3 : Principal Component Analysis (PCA)
