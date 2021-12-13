@@ -11,3 +11,8 @@ This repository contains the MATLAB source codes for the assignments of MM3110 C
 
     Numerical methods such as Newton-Raphson method and secant method are used to solve linear and non-linear equations.
     
+- Numerical Integration
+
+    Numerical integration methods such as Simpson's one-third rule are implemented in MATLAB.
+    
+ 
